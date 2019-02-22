@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/aopalliance-repackaged-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/hk2-api-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/hk2-locator-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/hk2-utils-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.annotation-api-1.3.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.inject-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.json.bind-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.json-1.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.json-api-1.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.persistence-api-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.servlet-api-4.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.ws.rs-api-2.1.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.ws.rs-api-2.1.5-sources.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/javassist-3.22.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/validation-api-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="E:/javaworkplace/Api/lib/yasson-1.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
